@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\TUGAS PR 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\TUGAS PR 2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\TUGAS PR 2.AssemblyInfo.cs
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\TUGAS PR 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\bin\Debug\net8.0\TUGAS PR 2.exe
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\bin\Debug\net8.0\TUGAS PR 2.deps.json
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\bin\Debug\net8.0\TUGAS PR 2.runtimeconfig.json
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\bin\Debug\net8.0\TUGAS PR 2.dll
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\bin\Debug\net8.0\TUGAS PR 2.pdb
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\TUGAS PR 2.dll
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\refint\TUGAS PR 2.dll
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\TUGAS PR 2.pdb
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\TUGAS PR 2.genruntimeconfig.cache
+C:\Users\HP\source\repos\TUGAS PR 2\TUGAS PR 2\obj\Debug\net8.0\ref\TUGAS PR 2.dll
