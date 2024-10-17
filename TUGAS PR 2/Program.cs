@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 interface IKemampuan
-{SS
+{
     void Gunakan(Robot pengguna, Robot target); // Menggunakan kemampuan pada target
     bool IsCooldown();         // Memeriksa apakah kemampuan dalam cooldown
     void ResetCooldown();      // Mengatur ulang cooldown setelah durasi selesai
